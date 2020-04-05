@@ -52,7 +52,7 @@ class App extends Component {
   render() {
     return (
       <div className="App-header">
-        <h2>Animal Crossing Stonks Converter</h2>
+        <h2>AC Turnip Stonks Converter</h2>
 
         <label htmlFor="buy">Buying (Daisy Mae)</label>
         <br/>
